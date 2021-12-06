@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/exampleDespliguegithubPage/static/css/main.a617e044.chunk.css",
+    "main.js": "/exampleDespliguegithubPage/static/js/main.5baacc92.chunk.js",
+    "main.js.map": "/exampleDespliguegithubPage/static/js/main.5baacc92.chunk.js.map",
+    "runtime-main.js": "/exampleDespliguegithubPage/static/js/runtime-main.2c31d2e4.js",
+    "runtime-main.js.map": "/exampleDespliguegithubPage/static/js/runtime-main.2c31d2e4.js.map",
+    "static/js/2.e9cb8c8b.chunk.js": "/exampleDespliguegithubPage/static/js/2.e9cb8c8b.chunk.js",
+    "static/js/2.e9cb8c8b.chunk.js.map": "/exampleDespliguegithubPage/static/js/2.e9cb8c8b.chunk.js.map",
+    "static/js/3.4e3242b6.chunk.js": "/exampleDespliguegithubPage/static/js/3.4e3242b6.chunk.js",
+    "static/js/3.4e3242b6.chunk.js.map": "/exampleDespliguegithubPage/static/js/3.4e3242b6.chunk.js.map",
+    "index.html": "/exampleDespliguegithubPage/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/exampleDespliguegithubPage/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.e9cb8c8b.chunk.js.LICENSE.txt": "/exampleDespliguegithubPage/static/js/2.e9cb8c8b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/exampleDespliguegithubPage/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c31d2e4.js",
+    "static/js/2.e9cb8c8b.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.5baacc92.chunk.js"
+  ]
+}
